@@ -1,6 +1,5 @@
 import React from 'react';
 import classes from './index.scss';
-
 /* eslint-disable */
 
 class Option extends React.Component {
