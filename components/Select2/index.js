@@ -57,7 +57,6 @@ class Select2 extends React.Component {
           });
         break;
       case key === 13: // Enter
-
         if (this.state.visible) {
           const monthvalue = this.props.options[this.state.highlightedIndex].value;
           //console.log(monthvalue);
